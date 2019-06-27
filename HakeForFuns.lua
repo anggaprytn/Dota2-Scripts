@@ -1,7 +1,7 @@
 local HakeForFun = {}
 local KostyaUtils = require("KostyaUtils/Utils")
-HakeForFun.TrigerActiv                  = Menu.AddOption({"Anggaprytn","hake Fun"}, "00) On / Off script", "")
-HakeForFun.TrigerActivHigh_Five         = Menu.AddOption({"Anggaprytn","hake Fun"}, "01) High Five On / Off", "")
+HakeForFun.TrigerActiv                  = Menu.AddOption({"Anggaprytn","Auto High Five"}, "00) On / Off script", "")
+HakeForFun.TrigerActivHigh_Five         = Menu.AddOption({"Anggaprytn","Auto High Five"}, "01) High Five On / Off", "")
 
 HakeForFun.myHero = nil
 
